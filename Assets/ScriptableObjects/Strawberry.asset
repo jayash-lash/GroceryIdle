@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a74c06db5d7d4078b0e87700e9c09056, type: 3}
+  m_Name: Strawberry
+  m_EditorClassIdentifier: 
+  _fruitName: Strawberry
+  _fruitImage: {fileID: 0}
+  _gameObject: {fileID: 5673821071959770066, guid: 20f3b7209e6914c4fa3d8b7503361beb,
+    type: 3}
